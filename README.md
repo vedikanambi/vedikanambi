@@ -2,7 +2,7 @@
 
 **Senior Analyst (Business & Data)** with 5+ years of industry experience at HCLTech.  
 MSc Artificial Intelligence (2:1) — National College of Ireland.  
-Based in Ireland · Stamp 1G (Year 1) · Open to Data Analyst, Business Analyst, and Data Science roles.
+Based in Ireland · Stamp 1G (Year 1) · Open to Data Analyst, Business Analyst, Data Science, and AI-related roles.
 
 ---
 
