@@ -1,66 +1,66 @@
 # Hi, I'm Vedika 👋
 
-**AI Engineer & Data Professional** — MSc Artificial Intelligence (2:1), National College of Ireland  
-5+ years of industry experience bridging data engineering, machine learning, and applied AI.  
-Based in Ireland · Open to AI Engineer, ML Engineer, and Data Science roles.
+**Senior Analyst (Business & Data)** with 5+ years of industry experience at HCLTech.  
+MSc Artificial Intelligence (2:1) — National College of Ireland.  
+Based in Ireland · Stamp 1G (Year 1) · Open to Data Analyst, Business Analyst, and Data Science roles.
 
 ---
 
-## 🔧 What I Work With
+## 🔧 Skills
 
-**AI & ML**
-`Python` `PyTorch` `HuggingFace Transformers` `LoRA / PEFT` `LLMs` `RAG` `NLP` `Reinforcement Learning`
+**Data & Analytics**  
+`SQL` `Python` `Tableau` `Excel` `ETL Pipelines` `Data Wrangling` `EDA`
 
-**Data & Analytics**
-`SQL` `Pandas` `Tableau` `Power BI` `ETL Pipelines` `AWS (S3, EC2, Glue)`
+**Machine Learning & AI**  
+`Scikit-learn` `PyTorch` `HuggingFace` `NLP` `Reinforcement Learning`
 
-**Backend & APIs**
-`FastAPI` `REST APIs` `FastAPI` `Databricks`
+**Cloud & Tools**  
+`AWS (S3, EC2, Glue)` `Microsoft Azure` `Databricks` `FastAPI` `Git`
 
-**Frontend**
-`React` `Vite` `Tailwind CSS`
-
-**Cloud & Infrastructure**
-`Microsoft Azure` `AWS` `Docker`
+**Soft Skills**  
+Stakeholder communication · Translating business requirements into analytical workflows · Report automation
 
 ---
 
-## 🚀 Featured Projects
+## 📂 Projects
 
-| Project | What it does | Stack |
+| Project | Description | Stack |
 |---|---|---|
-| [FinLingo++](https://github.com/vedikanambi/Finlingo) | AI pipeline that simplifies financial/legal contracts, classifies risk, and verifies regulatory faithfulness | Python · FastAPI · React · HuggingFace · RAG |
-| [DermAI Guard](https://github.com/vedikanambi/DermAI) | Multimodal dermatology prototype — skin lesion classification and ingredient safety analysis using EfficientNet-B7 | Python · PyTorch · Computer Vision |
-| [RL Surge Pricing](https://github.com/vedikanambi/RL-Based-Dynamic-Surge-Pricing-for-Ridesharing) | Dynamic ride-share pricing modelled as an MDP using SARSA/Q-Learning on Uber/Lyft data | Python · RL · Gradient Boosting |
-| [Fiber Optic Coverage Analysis](https://github.com/vedikanambi/FiberOptic-Coverage-analysis-_-Maryland) | Broadband access patterns analysis across Maryland with ML models and geographic visualisations | Python · EDA · ML |
-| [Airline Disruption Optimisation](https://github.com/vedikanambi/Airline-Planning-after-flight-disruption-using-AMPL-) | LP/MIP resource allocation optimisation using Gurobi and AMPL with sensitivity analysis | Python · Gurobi · AMPL |
-| [ML Software Architecture](https://github.com/vedikanambi/Software-architecture-ML-System-EE_AI-CA1-) | Architectural design patterns applied to multi-label classification under XP methodology | Python · Software Architecture |
+| [FinLingo++](https://github.com/vedikanambi/Finlingo) | AI pipeline that simplifies financial/legal contracts, classifies risk, and checks regulatory faithfulness | Python · FastAPI · React · HuggingFace |
+| [DermAI Guard](https://github.com/vedikanambi/DermAI) | Research prototype for skin lesion classification and ingredient safety analysis | Python · PyTorch · Computer Vision |
+| [RL Surge Pricing](https://github.com/vedikanambi/RL-Based-Dynamic-Surge-Pricing-for-Ridesharing) | Dynamic ride-share pricing modelled as an MDP using Q-Learning on Uber/Lyft data | Python · Reinforcement Learning |
+| [Fiber Optic Coverage Analysis](https://github.com/vedikanambi/FiberOptic-Coverage-analysis-_-Maryland) | Broadband access pattern analysis with EDA and ML across Maryland | Python · EDA |
+| [Airline Disruption Optimisation](https://github.com/vedikanambi/Airline-Planning-after-flight-disruption-using-AMPL-) | Resource allocation optimisation after flight disruptions using LP/MIP modelling | Python · Gurobi · AMPL |
+| [ML Software Architecture](https://github.com/vedikanambi/Software-architecture-ML-System-EE_AI-CA1-) | Design patterns applied to multi-label classification under XP methodology | Python |
 
 ---
 
 ## 🏅 Certifications
 
-- 🏆 **Microsoft Certified: Azure AI Apps and Agents Developer Associate** *(Aug 2026)*
-- 🤖 **Databricks Academy — AI Agent Fundamentals** *(Sep 2025)*
-- 🐍 **HackerRank Python Certified** *(Sep 2025)*
+- **Microsoft Certified: Azure AI Apps and Agents Developer Associate** *(Aug 2026)*
+- **Databricks — AI Agent Fundamentals** *(Sep 2025)*
+- **HackerRank Python Certified** *(Sep 2025)*
 
 ---
 
-## 💼 Experience Highlights
+## 💼 Experience
 
-**Senior Analyst — HCLTech** *(Jun 2022 – Feb 2025)*
-- Built Tableau dashboards for 3 business units, cutting manual reporting time by 40%
-- Analysed 5M+ record datasets to surface trends for senior stakeholders
-- Built predictive models boosting resource planning efficiency by ~20%
-- Managed scalable data pipelines on AWS (S3, EC2, Glue)
+**Senior Analyst — HCLTech** *(Jun 2022 – Feb 2025)*  
+- Built Tableau dashboards for 3 business units, reducing manual reporting time by 40%  
+- Analysed datasets of 5M+ records to surface trends for senior stakeholders  
+- Improved data accuracy by 30% through Python & SQL data wrangling across 6+ sources  
+- Managed data pipelines on AWS (S3, EC2, Glue)
 
-**Analyst — HCLTech** *(Nov 2020 – Jun 2022)*
-- SQL & Excel-based analysis supporting continuous improvement initiatives
-- Translated stakeholder requirements into structured analytical workflows
+**Analyst — HCLTech** *(Nov 2020 – Jun 2022)*  
+- SQL & Excel-based analysis supporting continuous improvement initiatives  
+- Translated stakeholder requirements into structured reporting workflows
+
+**Analyst Intern — HCLTech** *(Jul 2019 – Nov 2020)*  
+- Python, SQL & RDBMS skills applied to real-world data analysis and validation tasks
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vedika--thirumalai--nambi-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/vedika-thirumalai-nambi/)
 [![GitHub](https://img.shields.io/badge/GitHub-vedikanambi-181717?style=flat&logo=github)](https://github.com/vedikanambi)
