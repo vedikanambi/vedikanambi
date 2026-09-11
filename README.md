@@ -29,9 +29,9 @@ Based in Ireland · Open to AI Engineer, ML Engineer, and Data Science roles.
 
 | Project | What it does | Stack |
 |---|---|---|
-| [FinLingo++](https://github.com/vedikanambi/Finlingo-) | AI pipeline that simplifies financial/legal contracts, classifies risk, and verifies regulatory faithfulness | Python · FastAPI · React · HuggingFace · RAG |
+| [FinLingo++](https://github.com/vedikanambi/Finlingo) | AI pipeline that simplifies financial/legal contracts, classifies risk, and verifies regulatory faithfulness | Python · FastAPI · React · HuggingFace · RAG |
+| [DermAI Guard](https://github.com/vedikanambi/DermAI) | Multimodal dermatology prototype — skin lesion classification and ingredient safety analysis using EfficientNet-B7 | Python · PyTorch · Computer Vision |
 | [RL Surge Pricing](https://github.com/vedikanambi/RL-Based-Dynamic-Surge-Pricing-for-Ridesharing) | Dynamic ride-share pricing modelled as an MDP using SARSA/Q-Learning on Uber/Lyft data | Python · RL · Gradient Boosting |
-| [LLM GTM Strategist](https://github.com/vedikanambi/LLM-Powered-GTM-Go-To-Market-Strategist) | LLM-powered tool that generates Go-To-Market strategies from business analysis | Python · LLMs · Jupyter |
 | [Fiber Optic Coverage Analysis](https://github.com/vedikanambi/FiberOptic-Coverage-analysis-_-Maryland) | Broadband access patterns analysis across Maryland with ML models and geographic visualisations | Python · EDA · ML |
 | [Airline Disruption Optimisation](https://github.com/vedikanambi/Airline-Planning-after-flight-disruption-using-AMPL-) | LP/MIP resource allocation optimisation using Gurobi and AMPL with sensitivity analysis | Python · Gurobi · AMPL |
 | [ML Software Architecture](https://github.com/vedikanambi/Software-architecture-ML-System-EE_AI-CA1-) | Architectural design patterns applied to multi-label classification under XP methodology | Python · Software Architecture |
